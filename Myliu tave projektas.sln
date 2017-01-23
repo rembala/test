@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myliu tave projektas", "Myliu tave projektas\Myliu tave projektas.csproj", "{1DC07C62-5FCF-4820-BF66-901930F8D24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{FDBF0131-CF17-4C79-8935-3567908D87AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC07C62-5FCF-4820-BF66-901930F8D24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC07C62-5FCF-4820-BF66-901930F8D24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC07C62-5FCF-4820-BF66-901930F8D24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC07C62-5FCF-4820-BF66-901930F8D24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBF0131-CF17-4C79-8935-3567908D87AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBF0131-CF17-4C79-8935-3567908D87AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBF0131-CF17-4C79-8935-3567908D87AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBF0131-CF17-4C79-8935-3567908D87AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.abstractions.dll
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\Myliu tave projektas.exe.config
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\Myliu tave projektas.exe
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\Myliu tave projektas.pdb
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.assert.dll
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.core.dll
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.execution.desktop.dll
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.assert.pdb
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.assert.xml
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.core.pdb
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.core.xml
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\bin\Debug\xunit.execution.desktop.xml
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\obj\Debug\Myliu tave projektas.exe
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\obj\Debug\Myliu tave projektas.pdb
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\Myliu tave projektas\obj\Debug\Myliu tave projektas.csprojResolveAssemblyReference.cache

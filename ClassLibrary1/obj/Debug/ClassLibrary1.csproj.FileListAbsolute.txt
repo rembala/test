@@ -1,0 +1,8 @@
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\ClassLibrary1\bin\Debug\XMLFile1.xml
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\ClassLibrary1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\ClassLibrary1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ARTA\Documents\Visual Studio 2015\Projects\Myliu tave projektas\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
