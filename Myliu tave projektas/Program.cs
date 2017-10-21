@@ -11,6 +11,9 @@ namespace Myliu_tave_projektas.Patterns.Builder
     {
         static void Main(string[] args)
         {
+            //Vienas pakeitimas
+            //Du pakeitimas
+
 
             MainInitialize();
             Console.ReadLine();
@@ -20,6 +23,8 @@ namespace Myliu_tave_projektas.Patterns.Builder
         abstract internal class c { public abstract void testas(); }
         sealed internal partial class test1 : c, f
         {
+
+
             public void he()
             {
                 throw new NotImplementedException();
