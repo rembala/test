@@ -12,6 +12,7 @@ namespace Myliu_tave_projektas.Patterns.Builder
         static void Main(string[] args)
         {
             MainInitialize();
+
             Console.ReadLine();
         }
 
