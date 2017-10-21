@@ -13,7 +13,6 @@ namespace Myliu_tave_projektas.Patterns.Builder
         {
             MainInitialize();
 
-
             Console.ReadLine();
         }
 
