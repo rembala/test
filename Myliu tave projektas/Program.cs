@@ -13,6 +13,8 @@ namespace Myliu_tave_projektas.Patterns.Builder
         {
             //Vienas pakeitimas
             //Du pakeitimas
+
+
             MainInitialize();
             Console.ReadLine();
         }
